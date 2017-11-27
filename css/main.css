@@ -1,8 +1,16 @@
+nav, .site-content {
+  font-family: 'Raleway', sans-serif;
+}
+
+.site-content, a {
+  color: #0dad87;
+}
+
 #about {
-  padding-top: 300px;
-  padding-bottom: 300px;
-  background-color: black;
-  color: white;
+  padding-top: 175px;
+  padding-bottom: 175px;
+  background-color: #000;
+  color:  #0dad87;
   text-align: center;
 }
 
@@ -14,19 +22,25 @@ i {
   margin-top: 15px;
 }
 
+h1 {
+  font-family: 'Monoton', cursive;
+  font-size: 80px;
+}
+
+
 h2 {
   margin-bottom: 40px;
 }
 
 #portfolio {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   text-align: center;
 }
 
 #contact {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   text-align: center;
 }
 
@@ -34,8 +48,5 @@ h2 {
   margin-top: 25px;
   margin-bottom: 25px;
   text-align: center;
-}
-
-.img-citation {
-  font-size: 10px;
+  font-size: 13px;
 }
