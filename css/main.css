@@ -1,8 +1,41 @@
+#about {
+  padding-top: 300px;
+  padding-bottom: 300px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
 img {
   padding: 3px;
 }
 
+i {
+  margin-top: 15px;
+}
+
+h2 {
+  margin-bottom: 40px;
+}
+
+#portfolio {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+#contact {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
 .footer, .footer p {
+  margin-top: 25px;
   margin-bottom: 25px;
   text-align: center;
+}
+
+.img-citation {
+  font-size: 10px;
 }
